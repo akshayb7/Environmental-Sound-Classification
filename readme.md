@@ -1,4 +1,4 @@
-## This is a Markdown file
+## Project Description
 
 The goal of this project is to evaluate the performance of deep-learning CNNs for the classification of urban sonic events. We will try to utilize the power of image classification of CNNs to do this by using the novel approach of turning audio files to spectrogram images and then using transfer learning to classify them. This is done because we want to utilize the recent advancements made in image classification and use transfer learning. We will be using 10-fold cross validation using the predefined folds provided in the dataset to measure the performance of the classifier.
 
